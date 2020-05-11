@@ -1,9 +1,9 @@
 ## Zhaogui Xu
 
-Researcher at Huawei Tech.
-Addr: Nanjing R&D Center 101 Software Avenue,
-            Yuhuatai District, Nanjing
-Email: zhaogui.xu@outlook.com
+Researcher at Huawei Tech.  
+Addr: Nanjing R&D Center 101 Software Avenue,  
+            Yuhuatai District, Nanjing  
+Email: zhaogui.xu@outlook.com  
 
 ## Welcome to GitHub Pages
 
