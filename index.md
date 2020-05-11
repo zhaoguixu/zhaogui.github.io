@@ -1,6 +1,6 @@
 <img style="float: right;" height="200" width="200" src="https://sites.google.com/site/pyzhaogui/home/633511372.jpg?attredirects=0">
 
-<font size="10"> Zhaogui Xu </font>
+<b><font size="8"> Zhaogui Xu </font></b>
 
 Researcher at Huawei Tech.  
 Addr: Nanjing R&D Center 101 Software Avenue,  
