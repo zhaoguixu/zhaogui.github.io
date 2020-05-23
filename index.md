@@ -7,13 +7,18 @@ Addr: Nanjing R&D Center 101 Software Avenue,
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yuhuatai District, Nanjing  
 Email: *zhaogui.xu@outlook.com*  
 
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/zhaoguixu/zhaogui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am now working at Huawei Tech. I got my PhD degree from Nanjing University, China (2011-2017). My doctor supervisor is Prof. Baowen Xu. I have also been studying at Purdue University (USA) for two years (2014-2016), co-advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). I got my bachelor degree at Southeast University, China (2007-2011).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interest
 
-### Markdown
+I am mainly working on programming support, bug detection and testing for Python projects. Especially, I am interested in applying technologies such as symbolic execution, probabilistic inference and machine learning to address practical issues involved during the development of Python projects. My another interest is reverse engineering and binary code analysis. I am now also working on this area.
+
+## Publications
+
+### 2018
+  * **Zhaogui Xu**, Shiqing Ma, Xiangyu Zhang, Shuofei Zhu, Baowen Xu. "Debugging with Intelligence via Probabilistic Inference" In: Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), Gothenburg, Sweden, May 27-June 3, 2018. Accepted. ([PDF](https://drive.google.com/open?id=1eCq90juOYEeDKcuXmCnGHEqcZsxeNfaT))  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
