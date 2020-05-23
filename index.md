@@ -18,17 +18,20 @@ I am mainly working on programming support, bug detection and testing for Python
 ## Publications
 
 ### 2018
-  * **Zhaogui Xu**, Shiqing Ma, Xiangyu Zhang, Shuofei Zhu, Baowen Xu. "__Debugging with Intelligence via Probabilistic Inference__" In: Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), Gothenburg, Sweden, May 27-June 3, 2018. (**CCF-A**)
+  * **Zhaogui Xu**, Shiqing Ma, Xiangyu Zhang, Shuofei Zhu, Baowen Xu. "_Debugging with Intelligence via Probabilistic Inference_" In: Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), Gothenburg, Sweden, May 27-June 3, 2018.
 
 ### 2017
-  * Shiqing Ma, Yousra Aafer, **Zhaogui Xu**, Wen-Chuan Lee, Juan Zhai, Yingqi Liu, Xiangyu Zhang. "__LAMP: Data Provenance for Graph Based Machine Learning Algorithms Through Derivative Computation__" In: Proceedings of the 11th Joint Meeting of the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017) ,Paderborn, Germany, Sept. 4-8, 2017.
+  * Shiqing Ma, Yousra Aafer, **Zhaogui Xu**, Wen-Chuan Lee, Juan Zhai, Yingqi Liu, Xiangyu Zhang. "_LAMP: Data Provenance for Graph Based Machine Learning Algorithms Through Derivative Computation_" In: Proceedings of the 11th Joint Meeting of the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017) ,Paderborn, Germany, Sept. 4-8, 2017.
+  
 ### 2016
-  * **Zhaogui Xu**, Xiangyu Zhang, Lin Chen, Kexin Pei, and Baowen Xu. "__Python Probabilistic Type Inference with Natural Language Support__" In: Proceedings of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016), Seattle, WA, USA, Nov. 13-18, 2016. (**Diamond Artifact Award**)
+  * **Zhaogui Xu**, Xiangyu Zhang, Lin Chen, Kexin Pei, and Baowen Xu. "_Python Probabilistic Type Inference with Natural Language Support_" In: Proceedings of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016), Seattle, WA, USA, Nov. 13-18, 2016. (**Diamond Artifact Award**)
 
-  * **Zhaogui Xu**, Peng Liu, Xiangyu Zhang, and Baowen Xu. "__Python Predictive Analysis for Bug Detection__" In: Proceedings of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016), Seattle, WA, USA, Nov. 13-18, 2016. (**Platinum Artifact**)
+  * **Zhaogui Xu**, Peng Liu, Xiangyu Zhang, and Baowen Xu. "_Python Predictive Analysis for Bug Detection_" In: Proceedings of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016), Seattle, WA, USA, Nov. 13-18, 2016. (**Platinum Artifact**)
+  
 ### 2014
-  * Zhifei Chen, Lin Chen, Yuming Zhou, **Zhaogui Xu**, William C. Chu, Baowen Xu. "__Dynamic Slicing of Python programs__" In The 38th Annual International Computers, Software & Applications Conference (COMPSAC 2014), Västerås, Sweden July 21–25, 2014. 
+  * Zhifei Chen, Lin Chen, Yuming Zhou, **Zhaogui Xu**, William C. Chu, Baowen Xu. "_Dynamic Slicing of Python programs_" In The 38th Annual International Computers, Software & Applications Conference (COMPSAC 2014), Västerås, Sweden July 21–25, 2014. 
+  
 ### 2013
-  * **Zhaogui Xu**, Ju Qian, Lin Chen, Zhifei Chen, Baowen Xu. "__Static Slicing for Python First-Class Objects__" In the 13th International Conference on Quality Software (QSIC 2013), July 29-30, 2013 Nanjing, China.
-  * Min Gong, **Zhaogui Xu**, Lei Xu, Yanhui Li, Lin Chen. "__Recommending Web Service Based on User Relationships and Preferences__" In 2013 IEEE International Conference on Web Services (ICWS 2013), June 28- July 03, Santa Clara, CA, USA, 2013 
+  * **Zhaogui Xu**, Ju Qian, Lin Chen, Zhifei Chen, Baowen Xu. "_Static Slicing for Python First-Class Objects_" In the 13th International Conference on Quality Software (QSIC 2013), July 29-30, 2013 Nanjing, China.
+  * Min Gong, **Zhaogui Xu**, Lei Xu, Yanhui Li, Lin Chen. "_Recommending Web Service Based on User Relationships and Preferences_" In 2013 IEEE International Conference on Web Services (ICWS 2013), June 28- July 03, Santa Clara, CA, USA, 2013 
 
