@@ -1,4 +1,4 @@
-<img style="float: right;" height="200" width="200" src="https://sites.google.com/site/pyzhaogui/home/633511372.jpg?attredirects=0">
+<img style="float: right;" height="200" width="200" src="https://zhaoguixu.github.io/images/avatar.jpg">
 
 <b><font size="8"> Zhaogui Xu </font></b>
 
