@@ -1,6 +1,6 @@
 <img style="float: right;" height="200" width="200" src="https://zhaoguixu.github.io/images/avatar.jpg">
 
-<b><font size="8"> Zhaogui Xu </font></b>
+<b><font size="7"> Zhaogui Xu </font></b>
 
 Researcher at Huawei Tech.  
 Addr: Nanjing R&D Center 101 Software Avenue,  
