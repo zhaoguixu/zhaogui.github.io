@@ -18,34 +18,17 @@ I am mainly working on programming support, bug detection and testing for Python
 ## Publications
 
 ### 2018
-  * **Zhaogui Xu**, Shiqing Ma, Xiangyu Zhang, Shuofei Zhu, Baowen Xu. "Debugging with Intelligence via Probabilistic Inference" In: Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), Gothenburg, Sweden, May 27-June 3, 2018. Accepted. ([PDF](https://drive.google.com/open?id=1eCq90juOYEeDKcuXmCnGHEqcZsxeNfaT))  
+  * **Zhaogui Xu**, Shiqing Ma, Xiangyu Zhang, Shuofei Zhu, Baowen Xu. "__Debugging with Intelligence via Probabilistic Inference__" In: Proceedings of the 40th International Conference on Software Engineering (ICSE 2018), Gothenburg, Sweden, May 27-June 3, 2018. (**CCF-A**)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2017
+  * Shiqing Ma, Yousra Aafer, **Zhaogui Xu**, Wen-Chuan Lee, Juan Zhai, Yingqi Liu, Xiangyu Zhang. "__LAMP: Data Provenance for Graph Based Machine Learning Algorithms Through Derivative Computation__" In: Proceedings of the 11th Joint Meeting of the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017) ,Paderborn, Germany, Sept. 4-8, 2017.
+### 2016
+  * **Zhaogui Xu**, Xiangyu Zhang, Lin Chen, Kexin Pei, and Baowen Xu. "__Python Probabilistic Type Inference with Natural Language Support__" In: Proceedings of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016), Seattle, WA, USA, Nov. 13-18, 2016. (**Diamond Artifact Award**)
 
-```markdown
-Syntax highlighted code block
+  * **Zhaogui Xu**, Peng Liu, Xiangyu Zhang, and Baowen Xu. "__Python Predictive Analysis for Bug Detection__" In: Proceedings of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2016), Seattle, WA, USA, Nov. 13-18, 2016. (**Platinum Artifact**)
+### 2014
+  * Zhifei Chen, Lin Chen, Yuming Zhou, **Zhaogui Xu**, William C. Chu, Baowen Xu. "__Dynamic Slicing of Python programs__" In The 38th Annual International Computers, Software & Applications Conference (COMPSAC 2014), Västerås, Sweden July 21–25, 2014. 
+### 2013
+  * **Zhaogui Xu**, Ju Qian, Lin Chen, Zhifei Chen, Baowen Xu. "__Static Slicing for Python First-Class Objects__" In the 13th International Conference on Quality Software (QSIC 2013), July 29-30, 2013 Nanjing, China.
+  * Min Gong, **Zhaogui Xu**, Lei Xu, Yanhui Li, Lin Chen. "__Recommending Web Service Based on User Relationships and Preferences__" In 2013 IEEE International Conference on Web Services (ICWS 2013), June 28- July 03, Santa Clara, CA, USA, 2013 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoguixu/zhaogui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
