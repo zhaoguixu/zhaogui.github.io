@@ -2,7 +2,7 @@
 
 <b><font size="6"> Zhaogui Xu </font></b>
 
-Researcher at Ant Financial Tech. 
+Researcher at Ant Financial Tech.  
 Addr: Huanglong International,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; XiHu District, Hangzhou  
 Email: *zhaogui.xu@outlook.com*  
