@@ -16,9 +16,11 @@ I am mainly working on Software Engineering area, developing new techs for progr
 
 ## Publications
 
-### 2020
-* Wanwangying Ma, Lin Chen, Xiangyu Zhang, Yang Feng, **Zhaogui Xu**, Zhifei Chen, Yuming Zhou, Baowen Xu. "_Impact Analysis of Cross-Project Bugs on Software Ecosystems_" In: Proceedings of the 42th International Conference on Software Engineering (ICSE 2020), Seoul, South Korea, Jul. 06-11, 2020. (Accepted)
+### 2023
+* Zelin Zhao, Xizao Wang, **Zhaogui Xu**, Zhenhao Tang, Yongchao Li and Peng Di. Incremental Call Graph Construction in Industrial Practice. In the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '23), 2023 (Accepted) (Core Contributor & Advisor).
 
+### 2020
+* Wanwangying Ma, Lin Chen, Xiangyu Zhang, Yang Feng, **Zhaogui Xu**, Zhifei Chen, Yuming Zhou, Baowen Xu. "_Impact Analysis of Cross-Project Bugs on Software Ecosystems_" In: Proceedings of the 42th International Conference on Software Engineering (ICSE 2020), Seoul, South Korea, Jul. 06-11, 2020.
 
 ### 2019
   * **Zhaogui Xu**, Ran Ju, Liang Gu, Weiguang Wang, Jin Li, Feng Li, Lei Han. "_Using Overlay Cloud Network to Accelerate Global Communications_" IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops, INFOCOM Workshops 2019, Paris, France, April 29 - May 2, 2019.
