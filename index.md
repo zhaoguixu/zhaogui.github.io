@@ -17,7 +17,7 @@ I am mainly working on Software Engineering area, developing new techs for progr
 ## Publications
 
 ### 2023
-* Zelin Zhao, Xizao Wang, **Zhaogui Xu**, Zhenhao Tang, Yongchao Li and Peng Di. "_Incremental Call Graph Construction in Industrial Practice_" In the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '23), 2023 (Accepted) (Core Contributor & Advisor).
+* Zelin Zhao, Xizao Wang, **Zhaogui Xu**, Zhenhao Tang, Yongchao Li and Peng Di. "_Incremental Call Graph Construction in Industrial Practice_" In: Proceedings of the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '23), 2023 (Accepted) (Core Contributor & Advisor).
 
 ### 2020
 * Wanwangying Ma, Lin Chen, Xiangyu Zhang, Yang Feng, **Zhaogui Xu**, Zhifei Chen, Yuming Zhou, Baowen Xu. "_Impact Analysis of Cross-Project Bugs on Software Ecosystems_" In: Proceedings of the 42th International Conference on Software Engineering (ICSE 2020), Seoul, South Korea, Jul. 06-11, 2020.
