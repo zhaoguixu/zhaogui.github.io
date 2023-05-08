@@ -4,7 +4,7 @@
 
 Researcher at Ant Financial Tech.  
 Addr: Ant Group Meta Zone, XiHu District, Hangzhou  
-Email: *zhaogui.xu@outlook.com*  
+Email: *zhaogui.xu at outlook com*  
 
 ## Biography
 
