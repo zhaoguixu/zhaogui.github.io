@@ -18,6 +18,7 @@ I am mainly working on Software Engineering area, developing new techs for progr
 ### 2024
 * Cong Li, **Zhaogui Xu**, Peng Di, Dongxia Wang, Zheng Li, and Qian Zheng. "_Understanding Code Changes Practically with Small-Scale Language Models_"
 In: Proceedings of the 2024 IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States, Oct. 27 - Nov. 1, 2024. (Corresponding Author)
+
 ### 2023
 * Zelin Zhao, Xizao Wang, **Zhaogui Xu**, Zhenhao Tang, Yongchao Li and Peng Di. "_Incremental Call Graph Construction in Industrial Practice_" In: Proceedings of the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2023), Melbourne, Australia, May 14-20, 2023. (Core Contributor & Advisor)
 
