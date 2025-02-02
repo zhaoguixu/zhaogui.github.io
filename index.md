@@ -15,9 +15,11 @@ Hi, I am now working at Ant Financial Tech as a Senior Software Engineer. I got 
 I am mainly working on Software Engineering area, developing new techs for programming intelligence, bug detection, software testing and etc. Especially, I am interested in applying technologies such as symbolic execution, probabilistic inference and machine learning to address practical issues involved during the software development. My another interest is computer networking, developing new techs to provide a high quality cloud network and data-center network.
 
 ## Publications
-
+### 2024
+* Cong Li, **Zhaogui Xu**, Peng Di, Dongxia Wang, Zheng Li, and Qian Zheng. "_Understanding Code Changes Practically with Small-Scale Language Models_"
+In: Proceedings of the 2024 IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States, Oct. 27 - Nov. 1, 2024. (Corresponding Author)
 ### 2023
-* Zelin Zhao, Xizao Wang, **Zhaogui Xu**, Zhenhao Tang, Yongchao Li and Peng Di. "_Incremental Call Graph Construction in Industrial Practice_" In: Proceedings of the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2023), Melbourne, Australia, May 14-20, 2023. (Core Contributor & Advisor) (Accepted)
+* Zelin Zhao, Xizao Wang, **Zhaogui Xu**, Zhenhao Tang, Yongchao Li and Peng Di. "_Incremental Call Graph Construction in Industrial Practice_" In: Proceedings of the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2023), Melbourne, Australia, May 14-20, 2023. (Core Contributor & Advisor)
 
 ### 2020
 * Wanwangying Ma, Lin Chen, Xiangyu Zhang, Yang Feng, **Zhaogui Xu**, Zhifei Chen, Yuming Zhou, Baowen Xu. "_Impact Analysis of Cross-Project Bugs on Software Ecosystems_" In: Proceedings of the 42th International Conference on Software Engineering (ICSE 2020), Seoul, South Korea, Jul. 06-11, 2020.
